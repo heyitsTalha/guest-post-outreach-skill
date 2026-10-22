@@ -39,7 +39,7 @@ Works for any niche and any site — you just add your own page link.
 **Claude Code:**
 
 ```bash
-git clone https://github.com/<you>/guest-post-outreach-skill.git
+git clone https://github.com/heyitsTalha/guest-post-outreach-skill.git
 cp -r guest-post-outreach-skill/guest-post-outreach ~/.claude/skills/
 ```
 
